@@ -2,6 +2,7 @@ import React from 'react';
 import { Mail, MapPin, Phone, Bell, User, ArrowRight } from 'lucide-react';
 
 export default function ContactPage() {
+  const a =
   return (
     <div className="min-h-screen bg-gray-50 font-sans text-slate-900">
       {/* Navigation Bar */}
