@@ -1,5 +1,7 @@
 import React from 'react';
 import { Mail, MapPin, Phone, Bell, User, ArrowRight } from 'lucide-react';
+import Image from 'next/image'; 
+import Link from 'next/link';
 
 export default function ContactPage() {
   return (
