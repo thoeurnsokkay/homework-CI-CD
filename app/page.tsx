@@ -3,7 +3,6 @@ import { Mail, MapPin, Phone, Bell, User, ArrowRight } from 'lucide-react';
 
 export default function ContactPage() {
   return (
-    const a = ;
     <div className="min-h-screen bg-gray-50 font-sans text-slate-900">
       {/* Navigation Bar */}
       <nav className="flex items-center justify-between px-8 py-4 bg-white border-b border-gray-100">
